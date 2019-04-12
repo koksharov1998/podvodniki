@@ -2,7 +2,7 @@
     "id": "acfd2f70-561b-4831-bee9-992c44c972f8",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Idle_2",
+    "name": "Idle2",
     "For3D": false,
     "HTile": false,
     "VTile": false,

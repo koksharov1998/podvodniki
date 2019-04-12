@@ -258,7 +258,7 @@
             "Key": "acfd2f70-561b-4831-bee9-992c44c972f8",
             "Value": {
                 "id": "14928708-e783-471c-90b6-22a1ccaa732a",
-                "resourcePath": "sprites\\Idle_2\\Idle_2.yy",
+                "resourcePath": "sprites\\Idle2\\Idle2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -314,7 +314,7 @@
             "Key": "d99adfdc-8280-4a08-a39d-796c3d574124",
             "Value": {
                 "id": "9f4a5ba1-96fd-46cd-a74f-f6ddbbba124d",
-                "resourcePath": "sprites\\Attack_Idle\\Attack_Idle.yy",
+                "resourcePath": "sprites\\Jump\\Jump.yy",
                 "resourceType": "GMSprite"
             }
         },

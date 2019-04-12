@@ -2,7 +2,7 @@
     "id": "d99adfdc-8280-4a08-a39d-796c3d574124",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Attack_Idle",
+    "name": "Jump",
     "For3D": false,
     "HTile": false,
     "VTile": false,

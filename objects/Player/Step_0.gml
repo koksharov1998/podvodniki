@@ -1,16 +1,20 @@
-//Move_y
-if (place_meeting(Player.x, Player.y+1, ground))
+//Collision_with_ground
+if (place_meeting(x, y, ground))
 {
-	Player.isGround = true;
-	Player.vsp = 0;
+	isGround = true;
+	vsp = 0;
 }
 else
 {
-	Player.isGround = false;
-	Player.vsp +=Player.grv;
+	isGround = false;
+	vsp +=grv;
 }
-//Move_x
-Player.hsp = Player.move_speed
-//Main programm
-Player.y += Player.vsp;
-Player.x += Player.hsp;
+//Jump
+if (isGround and keyboard_check(vk_space))
+{
+	vsp = -12;
+}
+//update coords
+y += vsp;
+x += move_speed;
+//UDP: Animation
