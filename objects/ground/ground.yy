@@ -5,23 +5,13 @@
     "name": "ground",
     "eventList": [
         {
-            "id": "c8b91bf9-c9ee-49c2-884f-ca4f56a81927",
+            "id": "8e14b78e-1cc8-4fa1-8c47-c91b24bdb781",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "f0059901-d646-4b9e-9555-2a9f597f4a70"
-        },
-        {
-            "id": "d9e2a492-f459-4fcb-a5e0-cbc826dedc25",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
             "m_owner": "f0059901-d646-4b9e-9555-2a9f597f4a70"
         }
     ],
