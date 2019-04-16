@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "73e1864a-d761-4ba7-8f7a-8a083673f280",
+            "Value": {
+                "id": "54bc3a10-3ec0-4300-bcee-db443a90a1f2",
+                "resourcePath": "sprites\\spBoss\\spBoss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "48164e1a-2651-4794-a12c-886642893645",
@@ -290,7 +298,7 @@
             "Key": "9ea5c6bc-df64-473c-8f44-5c87fa681252",
             "Value": {
                 "id": "5d05d37f-73fa-4841-8fbf-5a37b239a88f",
-                "resourcePath": "sprites\\spBoss\\spBoss.yy",
+                "resourcePath": "sprites\\spChicken\\spChicken.yy",
                 "resourceType": "GMSprite"
             }
         },
