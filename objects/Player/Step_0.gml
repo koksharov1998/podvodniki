@@ -1,6 +1,11 @@
 move_dir = keyboard_check(vk_right)-keyboard_check(vk_left);
 move_speed = move_dir*5;
-if (isEnd)
+//check pause
+if (game.status == "play")
+	isPause = false;
+else
+	isPause = true;
+if (isEnd or isPause)
 {
 	move_speed = 0;
 }
@@ -23,12 +28,12 @@ if (x <= 150 and move_dir =-1) {
 	move_speed = 0;
 }
 //Jump
-if (isGround and keyboard_check(vk_up) and !isEnd)
+if (isGround and keyboard_check(vk_up) and !isEnd and !isPause)
 {
 	vsp = -12;
 }
 //Movemant
-if (keyboard_check(vk_space) and !isEnd)
+if (keyboard_check(vk_space) and !isEnd and !isPause)
 {
 	isAttack = true;
 	move_speed = -5;
@@ -42,11 +47,11 @@ if (place_meeting(x,y, oBoss)){
 	move_speed = 0;
 	isEnd = true;
 	count+=1;
-	show_debug_message(count);
 	if (count >=40)
 		game_restart();
 	//add Animation boss attack
 }
+
 //update coords
 y += vsp;
 x += move_speed;

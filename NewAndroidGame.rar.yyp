@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1286fa9d-4f34-4f8d-8350-f970a0ee3653",
+            "Value": {
+                "id": "66b1927a-d288-40e3-8550-d0a56e988245",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18ab287d-d3fb-48e7-9580-2f38c5834a3e",
             "Value": {
                 "id": "aa8af9c1-aaca-45d6-8eb9-3feac1b877fc",
@@ -76,6 +84,14 @@
                 "id": "defa5a62-e774-4fc7-b6a5-f300996514bf",
                 "resourcePath": "views\\2e90a401-4452-4e15-a087-cfa8092a88ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "34321e0b-6bfb-4ff0-a08c-a148c79bd8ee",
+            "Value": {
+                "id": "79fce0a4-5cf4-4b92-8a30-b533ea8e05b3",
+                "resourcePath": "fonts\\font_menu\\font_menu.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "434c5221-1ab9-4b57-b7c7-b097fa332823",
                 "resourcePath": "sprites\\cloud1\\cloud1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "76e956c3-88f7-4a12-934b-dbc608ffaca5",
+            "Value": {
+                "id": "d0545842-cd78-428b-89c1-a69420ebbfaf",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -524,6 +548,14 @@
                 "id": "7edb5fba-556e-4ccb-b161-e476e985ca8d",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f9c2178a-fca5-438d-a51d-a5e420e1540a",
+            "Value": {
+                "id": "24ef79de-e640-4deb-8953-3a2761894cb6",
+                "resourcePath": "sounds\\snd_menu_switch\\snd_menu_switch.yy",
+                "resourceType": "GMSound"
             }
         },
         {

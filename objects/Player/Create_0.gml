@@ -4,6 +4,7 @@ move_speed = 0;
 move_dir = 0;
 isGround = false;
 isAttack = false;
+isPause = true;
 attack_cooldown = 0;
 isEnd = false;
 count=0;
