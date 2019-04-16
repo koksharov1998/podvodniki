@@ -2,4 +2,6 @@ vsp = 0;
 grv = 0.5;
 move_speed = 0;
 move_dir = 0;
-var isGround;
+isGround = false;
+isAttack = false;
+attack_cooldown = 0;
