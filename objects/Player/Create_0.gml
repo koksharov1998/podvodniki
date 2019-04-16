@@ -6,3 +6,4 @@ isGround = false;
 isAttack = false;
 attack_cooldown = 0;
 isEnd = false;
+count=0;

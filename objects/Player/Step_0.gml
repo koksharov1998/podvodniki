@@ -39,9 +39,12 @@ else
 }
 //Game End
 if (place_meeting(x,y, oBoss)){
-	alarm[0] = 50;
 	move_speed = 0;
 	isEnd = true;
+	count+=1;
+	show_debug_message(count);
+	if (count >=40)
+		game_restart();
 	//add Animation boss attack
 }
 //update coords

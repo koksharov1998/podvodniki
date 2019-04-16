@@ -15,7 +15,7 @@ x += move_speed;
 
 //Attack
 //if (place_meeting(x, y, Player))
-if (keyboard_check(vk_alt))
+if (Player.isEnd)
 {
 	sprite_index = spBossAttack;
 }
