@@ -5,3 +5,4 @@ move_dir = 0;
 isGround = false;
 isAttack = false;
 attack_cooldown = 0;
+isEnd = false;
