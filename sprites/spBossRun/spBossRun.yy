@@ -2,7 +2,7 @@
     "id": "73e1864a-d761-4ba7-8f7a-8a083673f280",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spBoss",
+    "name": "spBossRun",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -131,6 +131,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 280,
-    "xorig": 349,
-    "yorig": 194
+    "xorig": 130,
+    "yorig": 160
 }

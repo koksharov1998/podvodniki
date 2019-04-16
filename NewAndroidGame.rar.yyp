@@ -170,7 +170,7 @@
             "Key": "73e1864a-d761-4ba7-8f7a-8a083673f280",
             "Value": {
                 "id": "54bc3a10-3ec0-4300-bcee-db443a90a1f2",
-                "resourcePath": "sprites\\spBoss\\spBoss.yy",
+                "resourcePath": "sprites\\spBossRun\\spBossRun.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -187,6 +187,14 @@
             "Value": {
                 "id": "434c5221-1ab9-4b57-b7c7-b097fa332823",
                 "resourcePath": "sprites\\cloud1\\cloud1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77369e8f-7b32-44f2-88d3-e61d22a0a722",
+            "Value": {
+                "id": "f9a9d858-c76c-41fc-aa8b-49ec83e12894",
+                "resourcePath": "sprites\\spBossAttack\\spBossAttack.yy",
                 "resourceType": "GMSprite"
             }
         },
