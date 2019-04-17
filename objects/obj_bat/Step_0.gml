@@ -11,7 +11,7 @@ if (game.status == "pause"){
 }
 else
 {
-	move_speed = -3;
+	move_speed = -6;
 }
 x += move_speed;
 y +=random_range(-2,2);
