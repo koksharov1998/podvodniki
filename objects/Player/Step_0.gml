@@ -45,10 +45,8 @@ else
 //Game End
 if (place_meeting(x,y, oBoss)){
 	move_speed = 0;
+	game.status = "pause";
 	isEnd = true;
-	count+=1;
-	if (count >=40)
-		game_restart();
 	//add Animation boss attack
 }
 

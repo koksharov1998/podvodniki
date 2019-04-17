@@ -15,7 +15,11 @@ x += move_speed;
 
 //Attack
 //if (place_meeting(x, y, Player))
-if (Player.isEnd)
+if (place_meeting(x, y, Player))
 {
 	sprite_index = spBossAttack;
+}
+else
+{
+	sprite_index = spBossRun;
 }
