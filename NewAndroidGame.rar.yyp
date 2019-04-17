@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "38319619-2468-475a-b91b-45380ddd290b",
+            "Value": {
+                "id": "bac873f8-8a24-49cb-999b-5462d14ea98c",
+                "resourcePath": "objects\\obj_coins_generator\\obj_coins_generator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "6019f14f-27b6-4559-961f-274e5f68e599",
@@ -124,6 +132,14 @@
                 "id": "d565f3ad-fa7c-487c-882d-4e121b33eea6",
                 "resourcePath": "objects\\ground1\\ground1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "437eca13-c072-4395-8ed7-6f292795b11d",
+            "Value": {
+                "id": "d3946cf7-3a50-4f80-abfe-7e81f9ade15d",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -331,6 +347,14 @@
             "Value": {
                 "id": "90884067-b561-4089-879b-01a275ec2250",
                 "resourcePath": "objects\\backgr1\\backgr1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9c045652-c9b8-4ca6-b412-315399da1439",
+            "Value": {
+                "id": "480ef68d-8698-4d43-bd69-1bcb973298f9",
+                "resourcePath": "objects\\obj_coin\\obj_coin.yy",
                 "resourceType": "GMObject"
             }
         },
