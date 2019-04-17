@@ -58,7 +58,9 @@ if (place_meeting(x,y, oBoss)){
 	//add Animation boss attack
 }
 if (isEnd)
+	{
 	audio_play_sound(snd_die,1,false);
+	}
 //update coords
 y += vsp;
 x += move_speed;
