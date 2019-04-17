@@ -1,8 +1,8 @@
 {
-    "id": "23da6e9d-0073-4739-b866-ae1da35df1ce",
+    "id": "a0be2733-0d38-4e37-be0b-e095e5c3a0ab",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_run",
+    "name": "snd_die",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.3
+    "volume": 0.5
 }

@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "96bfdf3c-5b78-4e28-b22b-86011b284dd2",
+            "Value": {
+                "id": "8e2740b4-0ec8-4451-8129-92dc6f8c50d1",
+                "resourcePath": "objects\\obj_bet_generator\\obj_bet_generator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "983314ec-1489-4bec-9d73-24d5ee548886",
             "Value": {
                 "id": "eff68a12-c61b-4b4d-8bd3-0d208974d5c8",
@@ -372,6 +380,14 @@
                 "id": "5d05d37f-73fa-4841-8fbf-5a37b239a88f",
                 "resourcePath": "sprites\\spChicken\\spChicken.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a0be2733-0d38-4e37-be0b-e095e5c3a0ab",
+            "Value": {
+                "id": "21545f59-c02c-4842-b0fd-ed0a4e02f2d0",
+                "resourcePath": "sounds\\snd_die\\snd_die.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -443,6 +459,14 @@
             "Value": {
                 "id": "af49ae96-7c14-4017-aa17-d2606aeab6d0",
                 "resourcePath": "sprites\\cloud2\\cloud2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b57e71cc-25b1-4975-9c62-a59a474ff2d6",
+            "Value": {
+                "id": "0798d9f5-c1c7-4f95-ac3a-fc0ca6b65324",
+                "resourcePath": "sprites\\bat\\bat.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -527,6 +551,14 @@
             }
         },
         {
+            "Key": "d929f836-6203-4d16-82e0-26bb002a095e",
+            "Value": {
+                "id": "66814665-d9cd-47a3-916b-9ca35396e11f",
+                "resourcePath": "sounds\\snd_hit\\snd_hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "d99adfdc-8280-4a08-a39d-796c3d574124",
             "Value": {
                 "id": "9f4a5ba1-96fd-46cd-a74f-f6ddbbba124d",
@@ -539,6 +571,14 @@
             "Value": {
                 "id": "e8d4c86b-88fe-42da-a714-b78f120fb454",
                 "resourcePath": "objects\\obj_cloud3\\obj_cloud3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "df587776-c99d-49c3-9d3e-90bcaa83637e",
+            "Value": {
+                "id": "b5c5f86d-8591-46f0-b4af-8f2186dda8af",
+                "resourcePath": "objects\\obj_bat\\obj_bat.yy",
                 "resourceType": "GMObject"
             }
         },

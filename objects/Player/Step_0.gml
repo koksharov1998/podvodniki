@@ -11,6 +11,10 @@ if (isEnd or isPause)
 {
 	move_speed = 0;
 }
+//Collision_with_bat
+if (place_meeting(x,y,obj_bat)){
+	move_speed = 0;
+}
 //Collision_with_ground
 if (place_meeting(x, y, ground) or place_meeting(x,y,ground1))
 {
@@ -39,6 +43,8 @@ if (keyboard_check(vk_space) and !isEnd and !isPause)
 {
 	isAttack = true;
 	move_speed = -5;
+	if (!audio_is_playing(snd_hit))
+		audio_play_sound(snd_hit,1,false);
 }
 else
 {
@@ -51,7 +57,8 @@ if (place_meeting(x,y, oBoss)){
 	isEnd = true;
 	//add Animation boss attack
 }
-
+if (isEnd)
+	audio_play_sound(snd_die,1,false);
 //update coords
 y += vsp;
 x += move_speed;
