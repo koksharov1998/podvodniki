@@ -1,3 +1,5 @@
+if (isEnd and game.status = "pause")
+	audio_stop_sound(snd_run);
 move_dir = keyboard_check(vk_right)-keyboard_check(vk_left);
 move_speed = move_dir*5;
 //check pause

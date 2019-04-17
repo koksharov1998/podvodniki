@@ -9,5 +9,6 @@ else
 if (place_meeting(x,y,Player)){
 	Player.Score ++;
 	instance_destroy();
+	audio_play_sound(snd_coin,1,false);
 }
 x +=move_speed;

@@ -3,6 +3,7 @@ switch(menu_index)
 	//New Game
 	case 0:
 		instance_destroy();
+		audio_play_sound(snd_run,0,true);
 		instance_destroy(Player);
 		instance_create_layer(330,400,"Air",Player);
 		instance_create_layer(menu_x,menu_y,"Air",obj_score_table);
