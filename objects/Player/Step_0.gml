@@ -16,7 +16,7 @@ if (place_meeting(x,y,obj_bat)){
 	move_speed = 0;
 }
 //Collision_with_ground
-if (place_meeting(x, y, ground) or place_meeting(x,y,ground1))
+if (place_meeting(x, y, ground) or place_meeting(x,y+grv,ground1))
 {
 	vsp = 0;
 	isGround = true;
@@ -26,6 +26,7 @@ else
 	vsp +=grv;
 	isGround = false;
 }
+show_debug_message(isGround);
 //Collision_with_border
 if( x+move_speed >= room_width-140 and move_dir = 1){
 	move_speed = 0;
