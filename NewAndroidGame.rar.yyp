@@ -50,7 +50,7 @@
             "Key": "0ebc268d-8ec9-4f5c-8d6a-3b4d5a8f6947",
             "Value": {
                 "id": "7583ceb4-effb-4074-97a9-3f5819814099",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_game\\room_game.yy",
                 "resourceType": "GMRoom"
             }
         },
