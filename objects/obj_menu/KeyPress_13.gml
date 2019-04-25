@@ -1,4 +1,4 @@
-switch(menu_index)
+ switch(menu_index)
 {
 	//New Game
 	case 0:
@@ -18,7 +18,9 @@ switch(menu_index)
 		break;
 	//Achivments
 	case 2:
-	
+		instance_destroy();
+		instance_create_layer(menu_x, menu_y - 100, "Achievements", obj_achievements);
+		break;
 	//Exit
 	case 3:
 		game_end();

@@ -30,7 +30,7 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Achivment",
+            "name": "Achievements",
             "id": "5b16bc31-80b2-4486-a865-0e5513bdd095",
             "depth": 0,
             "grid_x": 32,

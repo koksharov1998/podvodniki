@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "b46ded8f-b6ab-410f-b1f2-8105412653d7",
+            "Value": {
+                "id": "e8818b72-78c1-4b67-a76e-ebb13ddecc50",
+                "resourcePath": "objects\\obj_achievements\\obj_achievements.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b57e71cc-25b1-4975-9c62-a59a474ff2d6",
             "Value": {
                 "id": "0798d9f5-c1c7-4f95-ac3a-fc0ca6b65324",
@@ -623,6 +631,14 @@
             }
         },
         {
+            "Key": "db3d9baa-8c64-469e-a498-048c014d4b26",
+            "Value": {
+                "id": "db725fa3-ce14-4ce9-bd37-d925eb83b279",
+                "resourcePath": "sprites\\spr_achiv_empty\\spr_achiv_empty.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df587776-c99d-49c3-9d3e-90bcaa83637e",
             "Value": {
                 "id": "b5c5f86d-8591-46f0-b4af-8f2186dda8af",
@@ -736,7 +752,7 @@
         }
     ],
     "script_order": [
-        
+        "a638c74f-10f3-4cd2-b82f-2155fcd1e121"
     ],
     "tutorial": ""
 }
