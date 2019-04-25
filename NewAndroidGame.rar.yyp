@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "23a857c1-a634-43ef-a6f4-d95fd378f28e",
+            "Value": {
+                "id": "9829622c-409f-4e17-9d6b-e279bfd3dd6f",
+                "resourcePath": "objects\\obj_achive_kill_20_bat\\obj_achive_kill_20_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23da6e9d-0073-4739-b866-ae1da35df1ce",
             "Value": {
                 "id": "2e24b024-6326-48d0-864e-3103e0b50d42",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "711e5853-8196-4811-8095-26900f457b25",
+            "Value": {
+                "id": "df82db2f-91ea-4c68-b88a-28851eb0eb86",
+                "resourcePath": "sprites\\spr_achiv_get_20_bat\\spr_achiv_get_20_bat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7202da0f-a70f-40f3-83e8-43bc0a022036",
             "Value": {
                 "id": "44b3f01a-63af-48e4-8e31-e2b2818d0f4a",
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "820b774b-0598-40cc-87a6-a7d1e11d4910",
+            "Value": {
+                "id": "13202d24-dc35-494c-826a-ee345b527184",
+                "resourcePath": "objects\\obj_achive_controller\\obj_achive_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "9ca3c450-17a5-4279-a11d-cb7cfc2137c1",
@@ -324,6 +348,14 @@
                 "id": "39248005-ef2d-4ade-9b96-9137bdb3a7d2",
                 "resourcePath": "views\\8520ed55-044a-4f01-b69d-a6b12a024cdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "88949a72-3894-4c4f-8328-7c36b13a6856",
+            "Value": {
+                "id": "77773aa5-eed8-4b43-9346-1e4597473092",
+                "resourcePath": "sprites\\spr_achiv_get_20_coins\\spr_achiv_get_20_coins.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -423,6 +455,14 @@
             }
         },
         {
+            "Key": "a638c74f-10f3-4cd2-b82f-2155fcd1e121",
+            "Value": {
+                "id": "9cd255fc-78dc-4ff2-a618-3194c9c155a4",
+                "resourcePath": "scripts\\achiv_update\\achiv_update.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a736f7cb-1306-453a-9569-d4dd87a02628",
             "Value": {
                 "id": "ff53c390-ecc9-4467-bace-7109e41ff34d",
@@ -516,6 +556,14 @@
                 "id": "5191ea86-e092-4582-a0b8-bb152e518947",
                 "resourcePath": "sprites\\Ready_to_fight\\Ready_to_fight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c957b968-4b6e-4e0a-8a72-960eeca3af13",
+            "Value": {
+                "id": "9c51194a-23ea-4d69-9888-883056ed304f",
+                "resourcePath": "objects\\obj_achive_get_20_coins\\obj_achive_get_20_coins.yy",
+                "resourceType": "GMObject"
             }
         },
         {

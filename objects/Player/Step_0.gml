@@ -26,7 +26,6 @@ else
 	vsp +=grv;
 	isGround = false;
 }
-show_debug_message(isGround);
 //Collision_with_border
 if( x+move_speed >= room_width-140 and move_dir = 1){
 	move_speed = 0;
@@ -58,10 +57,6 @@ if (place_meeting(x,y, oBoss)){
 	isEnd = true;
 	//add Animation boss attack
 }
-if (isEnd)
-	{
-	audio_play_sound(snd_die,1,false);
-	}
 //update coords
 y += vsp;
 x += move_speed;

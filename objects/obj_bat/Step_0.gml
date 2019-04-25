@@ -3,8 +3,10 @@ if (place_meeting(x,y,oBoss)){
 }
 if (place_meeting(x,y,Player)){
 	move_speed = 5;
-	if (Player.isAttack)
+	if (Player.isAttack){
+		global.BetKilled ++;
 		instance_destroy();
+	}
 }
 if (game.status == "pause"){
 	move_speed = 0;

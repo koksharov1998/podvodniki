@@ -7,7 +7,8 @@ button_h = 32;
 
 button[0] = "New Game";
 button[1] = "Controls";
-button[2] = "Exit";
+button[2] = "Achivments";
+button[3] = "Exit";
 //array of buttons
 buttons = array_length_1d(button);
 

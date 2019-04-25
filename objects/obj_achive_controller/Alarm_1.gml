@@ -1,0 +1,1 @@
+instance_destroy(obj_achive_kill_20_bat);

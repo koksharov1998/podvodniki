@@ -3,6 +3,7 @@ switch(menu_index)
 	//New Game
 	case 0:
 		instance_destroy();
+		global.BetKilled = 0;
 		audio_stop_all();
 		audio_play_sound(snd_run,0,true);
 		instance_destroy(Player);
@@ -15,8 +16,11 @@ switch(menu_index)
 		instance_destroy();
 		instance_create_layer(menu_x,menu_y-100,"Air",obj_options);
 		break;
-	//Exit
+	//Achivments
 	case 2:
+	
+	//Exit
+	case 3:
 		game_end();
 		break;
 }
