@@ -56,6 +56,7 @@ if (place_meeting(x,y, oBoss)){
 	game.status = "pause";
 	isEnd = true;
 	//add Animation boss attack
+	oBoss.sprite_index = spBossAttack;
 }
 //update coords
 y += vsp;

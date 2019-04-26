@@ -14,10 +14,9 @@ y += vsp;
 x += move_speed;
 
 //Attack
-//if (place_meeting(x, y, Player))
 if (place_meeting(x, y, Player))
 {
-	sprite_index = spBossAttack;
+	
 }
 else
 {
