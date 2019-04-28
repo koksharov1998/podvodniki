@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "44a9c3b9-aedb-4557-8497-5ca9177b4f78",
+            "Value": {
+                "id": "e661e057-a6fd-4f18-bb35-607db83593d9",
+                "resourcePath": "sprites\\spr_achive_rich_bich\\spr_achive_rich_bich.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "515cb3d2-1255-4624-b97a-b38645028119",
             "Value": {
                 "id": "8dc99b70-c04c-4a6f-8c3b-3fce78ed56e3",
