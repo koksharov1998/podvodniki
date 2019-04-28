@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "88012b67-7da7-46bf-9dae-f1bad18d7fcb",
+            "Value": {
+                "id": "f4bb7e87-6467-44f2-924a-05e0edf6804d",
+                "resourcePath": "sprites\\spr_achive_smart_guy\\spr_achive_smart_guy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88949a72-3894-4c4f-8328-7c36b13a6856",
             "Value": {
                 "id": "77773aa5-eed8-4b43-9346-1e4597473092",
