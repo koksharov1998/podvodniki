@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "61ccce09-44e7-4a7a-93a6-407d07f80f30",
+            "Value": {
+                "id": "400a2465-a0fc-4471-a906-9237b356acff",
+                "resourcePath": "objects\\obj_max_score_table\\obj_max_score_table.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6d96a52d-d8c3-4275-925a-876f0f2f3795",
             "Value": {
                 "id": "e932f9cc-0535-4805-8791-b870ad270fb4",

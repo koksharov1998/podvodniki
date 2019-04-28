@@ -9,6 +9,7 @@
 		instance_destroy(Player);
 		instance_create_layer(330,400,"Air",Player);
 		instance_create_layer(menu_x,menu_y,"Air",obj_score_table);
+		instance_create_layer(menu_x ,menu_y , "Air", obj_max_score_table);
 		game.status = "play";
 		break;
 	//Optrions	
