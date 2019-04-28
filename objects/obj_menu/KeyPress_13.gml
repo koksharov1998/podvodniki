@@ -21,8 +21,15 @@
 		instance_destroy();
 		instance_create_layer(menu_x, menu_y - 100, "Achievements", obj_achievements);
 		break;
-	//Exit
+	//Reset Stats
 	case 3:
+		Player.Score = 0;
+		global.BetKilled = 0;
+		save_empty();
+		load();
+		break;
+	//Exit
+	case 4:
 		game_end();
 		break;
 }

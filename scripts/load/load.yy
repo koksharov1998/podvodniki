@@ -1,8 +1,8 @@
 {
-    "id": "a638c74f-10f3-4cd2-b82f-2155fcd1e121",
+    "id": "8ec41a45-cffc-467d-91c6-3f8e70a2b84b",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "achiv_update",
+    "name": "load",
     "IsCompatibility": false,
     "IsDnD": false
 }

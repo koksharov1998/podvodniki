@@ -22,14 +22,3 @@ if (current_menu_y > frame_y - 200 and current_menu_y < frame_y + 500 - 270) {
 	else
 		draw_sprite(spr_achiv_empty, 0, current_menu_x - 220, current_menu_y + 200);
 }
-	
-if (current_menu_y > frame_y - 300 and current_menu_y < frame_y + 500 - 370) {
-	if (true)
-		draw_sprite(spr_achiv_empty, 0, current_menu_x - 220, current_menu_y + 300);
-}
-
-if (current_menu_y > frame_y - 400 and current_menu_y < frame_y + 500 - 470) {
-	if (true)
-		draw_sprite(spr_achiv_empty, 0, current_menu_x - 220, current_menu_y + 400);
-}
-		

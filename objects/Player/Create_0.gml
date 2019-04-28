@@ -1,4 +1,4 @@
-Score = 0;
+Score = 0
 vsp = 12; // Костыль
 grv = 0.5;
 move_speed = 0;
@@ -9,3 +9,4 @@ isPause = true;
 attack_cooldown = 0;
 isEnd = false;
 count=0;
+isSaved = false;

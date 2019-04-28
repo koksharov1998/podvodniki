@@ -57,6 +57,9 @@ if (place_meeting(x,y, oBoss)){
 	isEnd = true;
 	//add Animation boss attack
 	oBoss.sprite_index = spBossAttack;
+	
+
+
 }
 //update coords
 y += vsp;
@@ -66,6 +69,10 @@ x += move_speed;
 //Animation
 if (isEnd){
 	sprite_index = die_1;
+	if (!isSaved) {
+		isSaved = true;
+		save();
+	}
 }
 else if (isAttack)
 	{
