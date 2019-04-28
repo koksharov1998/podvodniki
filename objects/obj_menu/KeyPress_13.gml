@@ -26,6 +26,7 @@
 	case 3:
 		Player.Score = 0;
 		global.BetKilled = 0;
+		global.SG = false;
 		save_empty();
 		load();
 		break;
