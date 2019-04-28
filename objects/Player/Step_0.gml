@@ -69,6 +69,7 @@ x += move_speed;
 //Animation
 if (isEnd){
 	sprite_index = die_1;
+	instance_create_layer(x, y, "Air", obj_game_end);
 	if (!isSaved) {
 		isSaved = true;
 		save();
