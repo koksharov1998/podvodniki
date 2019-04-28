@@ -1,0 +1,1 @@
+instance_destroy(obj_achive_rich_bich);

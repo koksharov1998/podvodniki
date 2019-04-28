@@ -3,7 +3,6 @@ menu_y = y;
 button_h = 32;
 
 //buttons
-
 button[0] = "New Game";
 button[1] = "Controls";
 button[2] = "Achievements";
