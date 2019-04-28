@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03a2cbcd-2f51-4d83-997b-21debb86688a",
+            "Value": {
+                "id": "a7eb076c-504f-47f0-aa28-bf87f09b223a",
+                "resourcePath": "sprites\\spr_tutorial\\spr_tutorial.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "04cda08f-070d-47dc-aedd-941628fdfa40",
             "Value": {
                 "id": "6fdb38d4-c41c-4aae-ab95-f316734dd1b2",
@@ -188,6 +196,14 @@
                 "id": "61ba09d1-d97c-4f97-b16d-ca8419ee9961",
                 "resourcePath": "sprites\\Attack_1\\Attack_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "56c7ca6c-f9f0-48a8-841e-d70b11f8eee5",
+            "Value": {
+                "id": "faed9205-bb67-415a-9812-d787051f9e6d",
+                "resourcePath": "objects\\obj_tutorial\\obj_tutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -428,6 +444,14 @@
                 "id": "480ef68d-8698-4d43-bd69-1bcb973298f9",
                 "resourcePath": "objects\\obj_coin\\obj_coin.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9c1f7f3e-94df-4e87-b8bb-d7f1c952084f",
+            "Value": {
+                "id": "efad5443-9a1f-40e7-899c-a3604faa6c85",
+                "resourcePath": "sprites\\spr_logo_menu\\spr_logo_menu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

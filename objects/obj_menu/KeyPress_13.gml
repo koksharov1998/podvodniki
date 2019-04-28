@@ -30,6 +30,11 @@
 		break;
 	//Exit
 	case 4:
+		instance_destroy();
+		instance_create_layer(0,0,"Tutorial",obj_tutorial);
+
+		break;
+	case 5:
 		game_end();
 		break;
 }
